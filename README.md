@@ -9,7 +9,7 @@ $$
 min \quad -w^T *E(r) + \lambda \cdot w \cdot \Omega \cdot w^T
 $$
 $$
-s.t. (subject to) lb \leq w \leq 0.05
+s.t.\text{ (subject to)} lb \leq w \leq up
 $$
 
 $$
@@ -26,6 +26,7 @@ $$
 - **Ω** = Covariance matrix of asset returns (measures risk/volatility)
 - **-w' E(r)** = Negative expected return (what we want to minimize to maximize returns)
 - **w' Ω w** = Portfolio variance (risk measure)
+- **lb** and **up** is the lower and upper bounds of portfolio weighting
 
 
 ## Using packages:
