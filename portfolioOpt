@@ -1,0 +1,2 @@
+require(quadprog)
+solve.QR(Dmat, dvec, Amat, bvec, meq)
