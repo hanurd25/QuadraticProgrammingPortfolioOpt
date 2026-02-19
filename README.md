@@ -16,7 +16,7 @@ $$
 \Sigma w = 100 \%
 $$
 $$
-0.5 \leq w' \cdot B \lew 1.1
+0.5 \leq w' \cdot B \leq 1.1
 $$
 
 ## Using packages:
