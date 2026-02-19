@@ -13,10 +13,14 @@ s.t. (subject to) lb \leq w \leq 0.05
 $$
 
 $$
-\sigma w = 100 %
+\Sigma w = 100 \%
+$$
+$$
+0.5 \leq w' \cdot B \lew 1.1
 $$
 
-
+## Using packages:
+- quadprog
 
 ### Sources:
 
