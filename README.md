@@ -13,7 +13,7 @@ s.t. (subject to) lb \leq w \leq 0.05
 $$
 
 $$
-\Sigma w = 100 \%
+\sum w = 100 \%
 $$
 $$
 0.5 \leq w' \cdot B \leq 1.1
