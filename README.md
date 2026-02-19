@@ -6,9 +6,15 @@ Portfolio optimization with quadratic optimization in R
 We use the following model:
 
 $$
-min -w'*E(r) \lambda \cdot w \cdot \omega \cdot w'
+min -w'*E(r) \lambda \cdot w \cdot \Omega \cdot w'
+$$
+$$
+s.t. (subject to) lb \leq w \leq 0.05
 $$
 
+$$
+\sigma w = 100 %
+$$
 
 
 
