@@ -25,7 +25,7 @@ $$
 - **E(r)** = Vector of expected returns for each asset
 - **λ** = Risk aversion parameter (higher values = more risk-averse)
 - **Ω** = Covariance matrix of asset returns (measures risk/volatility)
-- **-w' E(r)** = Negative expected return (we minimize this to maximize returns)
+- **-w' E(r)** = Negative expected return (what we want to minimize to maximize returns)
 - **w' Ω w** = Portfolio variance (risk measure)
 
 
