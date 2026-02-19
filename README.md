@@ -2,6 +2,9 @@
 Portfolio optimization with quadratic optimization in R
 
 ### Background:
+A model to find optimal asset allocations (%) by minimizing portfolio risk while maximizing expected returns, subject to investment constraints. Here we are using quadratic programming to balance the trade-off between expected returns and portfolio volatility, based on previously calculated expected returns and the covariance matrix of asset returns.
+
+
 
 We use the following model:
 
