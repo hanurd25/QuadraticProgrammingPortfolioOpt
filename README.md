@@ -1,4 +1,4 @@
-# QuadraticProgrammingPortfolioOpt
+# Portfolio Optimization with quadratic programming
 Portfolio optimization with quadratic optimization in R
 
 ### Background:
