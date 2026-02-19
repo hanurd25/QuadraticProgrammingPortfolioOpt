@@ -6,7 +6,7 @@ Portfolio optimization with quadratic optimization in R
 We use the following model:
 
 $$
-min -w^T *E(r) + \lambda \cdot w \cdot \Omega \cdot w^T
+min \hspace{0.5cm} -w^T *E(r) + \lambda \cdot w \cdot \Omega \cdot w^T
 $$
 $$
 s.t. (subject to) lb \leq w \leq 0.05
