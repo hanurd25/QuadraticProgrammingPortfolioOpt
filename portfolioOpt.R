@@ -10,7 +10,7 @@ omega <- matrix(c(
   0.004, -0.005,  0.015,  0.010,  0.004,
  -0.002,  0.000,  0.010,  0.020, -0.001,
   0.003, -0.006,  0.004, -0.001,  0.012
-), nrow=5, byrow=TRUE) # covariance matrix
+), nrow=5, byrow=TRUE) # Excample covariance matrix
 
 nAssets <- length(er)
 
