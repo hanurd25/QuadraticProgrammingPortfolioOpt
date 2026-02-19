@@ -11,6 +11,7 @@ omega <- matrix(c(
  -0.002,  0.000,  0.010,  0.020, -0.001,
   0.003, -0.006,  0.004, -0.001,  0.012
 ), nrow=5, byrow=TRUE) # Excample covariance matrix
+#R has simple ways to construct these as well with data scraping
 
 nAssets <- length(er)
 
