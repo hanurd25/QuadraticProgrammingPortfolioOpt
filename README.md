@@ -19,6 +19,16 @@ $$
 0.5 \leq w' \cdot B \leq 1.1
 $$
 
+**Here:**
+- **w** = Vector of portfolio weights (allocations to each asset)
+- **w'** = Transpose of the weight vector
+- **E(r)** = Vector of expected returns for each asset
+- **λ (lambda)** = Risk aversion parameter (higher values = more risk-averse)
+- **Ω (Omega)** = Covariance matrix of asset returns (measures risk/volatility)
+- **-w' E(r)** = Negative expected return (we minimize this to maximize returns)
+- **w' Ω w** = Portfolio variance (risk measure)
+
+
 ## Using packages:
 - quadprog
 
