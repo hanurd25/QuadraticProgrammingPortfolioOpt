@@ -3,7 +3,11 @@ Portfolio optimization with quadratic optimization in R
 
 ### Background:
 
+We use the following model:
 
+$$
+min -w'*E(r) \lambda \cdot w \cdot \omega \cdot w'
+$$
 
 
 
@@ -11,6 +15,6 @@ Portfolio optimization with quadratic optimization in R
 ### Sources:
 
 - https://www.youtube.com/watch?v=aYi-mCsNC08
--https://www.abiranalytic.com/mv-optimization
+- https://www.abiranalytic.com/mv-optimization
 
 
