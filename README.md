@@ -40,5 +40,6 @@ $$
 - https://www.youtube.com/watch?v=aYi-mCsNC08
 - https://www.abiranalytic.com/mv-optimization
 - https://stackoverflow.com/questions/62576639/using-quadprog-for-portfolio-optimization
-
+#### For further work/research:
+- https://www.youtube.com/watch?v=5lWltAyaEXA
 
